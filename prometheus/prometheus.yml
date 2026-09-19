@@ -12,3 +12,4 @@ scrape_configs:
     static_configs:
       - targets:
           - "node-exporter:9100"
+          - "16.171.66.208:9100"
