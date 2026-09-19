@@ -13,3 +13,5 @@ scrape_configs:
       - targets:
           - "node-exporter:9100"
           - "16.171.66.208:9100"
+          - "0d1f880ddfa1:9100"
+          
